@@ -4,4 +4,4 @@
 
 ## 配置
 
-- [Java项目]: https://github.com/renfei-net/gitignore/blob/master/java.gitignore	"java.gitignore"
+- [Java项目](https://github.com/renfei-net/gitignore/blob/master/java.gitignore)
